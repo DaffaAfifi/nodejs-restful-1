@@ -15,3 +15,7 @@ prisma
 ===============================
 npx prisma init : initial
 npx prisma --help
+
+alur
+===============================
+validation -> service -> controller -> regist api (route) -> unit test
